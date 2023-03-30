@@ -1,0 +1,33 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:21:44 µµ On 15/3/2023
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [5V_Regulator.PcbDoc]
+   Generated File[5V_Regulator.GTO]
+   Generated File[5V_Regulator.GTP]
+   Generated File[5V_Regulator.GTS]
+   Generated File[5V_Regulator.GTL]
+   Generated File[5V_Regulator.GBL]
+   Generated File[5V_Regulator.GBS]
+   Generated File[5V_Regulator.GBP]
+   Generated File[5V_Regulator.GBO]
+   Generated File[5V_Regulator.GM1]
+   Generated File[5V_Regulator.GM13]
+   Generated File[5V_Regulator.GM15]
+   Generated File[5V_Regulator.GM17]
+   Generated File[5V_Regulator.GKO]
+   Generated File[5V_Regulator.GPT]
+   Generated File[5V_Regulator.GPB]
+   Generated File[5V_Regulator.GML]
+   Generated File[5V_Regulator.1]
+   Generated File[5V_Regulator.RUL]
+   Generated File[5V_Regulator.EXTREP]
+   Generated File[5V_Regulator.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 8:21:44 µµ On 15/3/2023
