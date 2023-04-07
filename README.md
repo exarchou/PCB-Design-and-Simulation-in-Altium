@@ -1,3 +1,67 @@
+# PCB Design for ARM Cortex-M3
+
+This project involves the schematic and PCB design of an Arduino like PCB for ARM Cortex-M3 MCU. 
+
+A 9V Battery connector and a Voltage Regulator were used from the side of the Power Supply.
+
+For the MCU, several circuits were designed, such as Bypass Capacitors for the Analog and Digital Power, Crystal Oscillators, Reset Button, Serial Wire Debug Interface, Boot Options and the routing of 30 GPIO pins.
+
+
+
+### Schematic MCU
+
+<img src="/Smart_MCU/Images/Schematic_MCU.png" >
+
+
+
+### Schematic Power Supply
+
+<img src="/Smart_MCU/Images/Schematic_PS.png" >
+
+
+
+
+
+### PCB before Polygons
+
+<img src="/Smart_MCU/Images/PCB_2D_before_poly.png">
+
+
+
+
+
+<img src="/Smart_MCU/Images/PCB_3D_before_poly.png">
+
+
+
+<img src="/Smart_MCU/Images/PCB_3D_before_poly_back.png">
+
+
+
+### PCB after Polygons
+
+<img src="/Smart_MCU/Images/PCB_2D_after_poly.png">
+
+
+
+<img src="/Smart_MCU/Images/PCB_3D_after_poly.png">
+
+
+
+<img src="/Smart_MCU/Images/PCB_3D_after_poly_back.png">
+
+
+
+### Bill of Materials
+
+<img src="/Smart_MCU/Images/bill_of_mat.png">
+
+
+
+---
+
+
+
 # Altium 5V Regulator PCB design
 
 This project involves the schematic and PCB design of a 5V Voltage Regulator using commercial components and the add-on Altium Library Loader.
@@ -102,6 +166,3 @@ The PCB design will consist of a two-layer configuration where all the component
 
 
 
-### PCB 3D
-
-<img src="USB_to_UART_Altium/Images/pcb3d.png">

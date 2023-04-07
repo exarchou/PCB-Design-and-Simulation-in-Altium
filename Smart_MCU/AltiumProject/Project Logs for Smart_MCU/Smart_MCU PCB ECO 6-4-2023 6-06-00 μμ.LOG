@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=32KHz 01 Pin=C12-2
+Removed Pin From Net: NetName=IN/OUT Pin=C13-2
+Removed Pin From Net: NetName=OUT/IN Pin=C14-2
+Change Component Footprint: Designator=C12 Old Footprint=C1206 New Footprint=1608[0603]
+Change Component Footprint: Designator=C13 Old Footprint=C1206 New Footprint=1608[0603]
+Change Component Footprint: Designator=C14 Old Footprint=C1206 New Footprint=1608[0603]
+Change Component Footprint: Designator=C15 Old Footprint=C1206 New Footprint=1608[0603]
+Added Pin To Net: NetName=IN/OUT Pin=C12-2
+Added Pin To Net: NetName=OUT/IN Pin=C13-2
+Added Pin To Net: NetName=32KHz 01 Pin=C14-2
+Added Member To Class: ClassName=MCU Member=Component U2 STM32F103C8T6

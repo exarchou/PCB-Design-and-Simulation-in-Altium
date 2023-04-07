@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C1 Old Footprint=C1206 New Footprint=C1206tancap
+Change Component Footprint: Designator=C2 Old Footprint=C1206 New Footprint=C1206tancap
+Change Component Footprint: Designator=C3 Old Footprint=C1206 New Footprint=C1206tancap
+Change Component Comment : Designator=C1 Old Comment=Cap Semi New Comment=tantalum cap
+Change Component Comment : Designator=C3 Old Comment=Cap Semi New Comment=tantalum cap
+Change Component Comment : Designator=C2 Old Comment=Cap Tantalum New Comment=tantalum cap

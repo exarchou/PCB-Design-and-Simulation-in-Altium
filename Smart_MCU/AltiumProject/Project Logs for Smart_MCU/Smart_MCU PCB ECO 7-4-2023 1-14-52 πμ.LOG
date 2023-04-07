@@ -1,0 +1,2 @@
+Change Component Comment : Designator=U2 Old Comment=STM32F103C8T6 New Comment=
+Change Component Library : Designator=U2 Old Library=STMicroelectronics STM32 F1.IntLib New Library=Smart_MCU.IntLib

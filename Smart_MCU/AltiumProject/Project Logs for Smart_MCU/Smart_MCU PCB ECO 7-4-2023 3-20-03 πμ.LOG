@@ -1,0 +1,49 @@
+Added Component: Designator=R3(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=R3-1
+Added Pin To Net: NetName=PA0 Pin=R3-2
+Added Pin To Net: NetName=PA0 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=+3.3V Pin=R5-1
+Added Pin To Net: NetName=PA1 Pin=R5-2
+Added Pin To Net: NetName=PA1 Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=+3.3V Pin=R7-1
+Added Pin To Net: NetName=PA2 Pin=R7-2
+Added Pin To Net: NetName=PA2 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=+3.3V Pin=R9-1
+Added Pin To Net: NetName=PA3 Pin=R9-2
+Added Pin To Net: NetName=PA3 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Member To Class: ClassName=MCU Member=Component R3 1K
+Added Member To Class: ClassName=MCU Member=Component R4 1K
+Added Member To Class: ClassName=MCU Member=Component R5 1K
+Added Member To Class: ClassName=MCU Member=Component R6 1K
+Added Member To Class: ClassName=MCU Member=Component R7 1K
+Added Member To Class: ClassName=MCU Member=Component R8 1K
+Added Member To Class: ClassName=MCU Member=Component R9 1K
+Added Member To Class: ClassName=MCU Member=Component R10 1K
+Added Room: Name=MCU

@@ -1,0 +1,12 @@
+Added Component: Designator=D1(MY_LED_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "LED-AS"; VariantName = "[No Variations]"
+Added Component: Designator=R2(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=+3.3V Pin=R2-1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R2-2
+Added Net: Name=NetD1_A
+Added Member To Class: ClassName=PowerSupply Member=Component D1 LED
+Added Member To Class: ClassName=PowerSupply Member=Component R2 330R

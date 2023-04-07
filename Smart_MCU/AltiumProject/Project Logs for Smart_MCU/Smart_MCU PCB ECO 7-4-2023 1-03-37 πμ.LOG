@@ -1,0 +1,2 @@
+Change Component Comment : Designator=U1 Old Comment=LDO Regulator New Comment=
+Change Component Library : Designator=U1 Old Library=my_lm1117.IntLib New Library=Smart_MCU.IntLib

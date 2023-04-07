@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=32KHz 01 Pin=U2-3
+Removed Pin From Net: NetName=32KHz 02 Pin=U2-4
+Removed Pin From Net: NetName=OUT/IN Pin=U2-5
+Removed Pin From Net: NetName=NetR2_2 Pin=U2-6
+Removed Pin From Net: NetName=NRST Pin=U2-7
+Removed Pin From Net: NetName=SWDIO Pin=U2-34
+Removed Pin From Net: NetName=SWCLK Pin=U2-37
+Removed Pin From Net: NetName=NetR1_1 Pin=U2-44
+Removed Member From Class: ClassName=MCU Member=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Added Pin To Net: NetName=32KHz 01 Pin=U2-3
+Added Pin To Net: NetName=32KHz 02 Pin=U2-4
+Added Pin To Net: NetName=OUT/IN Pin=U2-5
+Added Pin To Net: NetName=NetR2_2 Pin=U2-6
+Added Pin To Net: NetName=NRST Pin=U2-7
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Pin To Net: NetName=NetR1_1 Pin=U2-44

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PB11 Pin=P4-1
+Added Pin To Net: NetName=PB11 Pin=R3-2
+Added Pin To Net: NetName=PB11 Pin=R4-1
+Added Room: Name=MCU
