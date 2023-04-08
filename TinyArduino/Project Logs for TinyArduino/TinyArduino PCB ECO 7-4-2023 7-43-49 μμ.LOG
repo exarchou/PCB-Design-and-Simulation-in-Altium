@@ -1,0 +1,12 @@
+Added Component: Designator=J?(HIRO-ZX62R-B-5P_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.hirose.com/‎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.hirose.co.jp/cataloge_hp/e24200011.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "08/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin USB Micro-B R/A Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "ZX62R-B-5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ZX62R-B-5P"; VariantName = "[No Variations]"
+Added Class: Name=TinyArduino

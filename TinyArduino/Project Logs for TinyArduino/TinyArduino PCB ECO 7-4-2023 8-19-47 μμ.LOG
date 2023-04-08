@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C? Old Footprint=MY_0201 New Footprint=MY_0603
+Added Member To Class: ClassName=TinyArduino Member=Component P? Header 4
+Added Member To Class: ClassName=TinyArduino Member=Component R? 1K
+Added Member To Class: ClassName=TinyArduino Member=Component R? 1K
+Added Member To Class: ClassName=TinyArduino Member=Component R? 1K
+Added Member To Class: ClassName=TinyArduino Member=Component R? 1K

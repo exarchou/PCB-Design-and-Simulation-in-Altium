@@ -1,0 +1,94 @@
+Removed Member From Class: ClassName=TinyArduino Member=J2
+Removed Member From Class: ClassName=TinyArduino Member=J3
+Change Component Comment : Designator=R? Old Comment=1K New Comment=68R
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=CR? NewDesignator=CR1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change component parameters: Designator = "C?" ("C1"); Footprint = "MY_0603"; UniqueID = "\ICBZOMHD" ("\ICBZOMHD")
+Change component parameters (AddParameter): Name = "ASiD Part Number"; Value = "C-AS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R2"); Footprint = "MY_0603"; UniqueID = "\QBNFCTVF" ("\QBNFCTVF")
+Change component parameters (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "68R"; VariantName = "[No Variations]"
+Added Component: Designator=CR2(SOD323_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B0540WS-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R1(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "68R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(MY_0603)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=P1-4
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=R4-2
+Added Pin To Net: NetName=+5 Pin=U1-8
+Added Net: Name=+5
+Added Pin To Net: NetName=\R\E\S\E\T Pin=DS1-2
+Added Pin To Net: NetName=\R\E\S\E\T Pin=R5-2
+Added Net: Name=\R\E\S\E\T
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=CR1-2
+Added Pin To Net: NetName=GND Pin=CR2-2
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCR1_1 Pin=CR1-1
+Added Pin To Net: NetName=NetCR1_1 Pin=J1-3
+Added Pin To Net: NetName=NetCR1_1 Pin=R3-1
+Added Net: Name=NetCR1_1
+Added Pin To Net: NetName=NetCR2_1 Pin=CR2-1
+Added Pin To Net: NetName=NetCR2_1 Pin=J1-2
+Added Pin To Net: NetName=NetCR2_1 Pin=R1-1
+Added Pin To Net: NetName=NetCR2_1 Pin=R2-1
+Added Net: Name=NetCR2_1
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R4-1
+Added Net: Name=NetDS1_1
+Added Pin To Net: NetName=PB0 Pin=U1-5
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=U1-6
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=U1-7
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=P2-3
+Added Pin To Net: NetName=PB3 Pin=R2-2
+Added Pin To Net: NetName=PB3 Pin=U1-2
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=P2-2
+Added Pin To Net: NetName=PB4 Pin=R3-2
+Added Pin To Net: NetName=PB4 Pin=U1-3
+Added Net: Name=PB4
+Added Pin To Net: NetName=RESET Pin=P2-4
+Added Pin To Net: NetName=RESET Pin=U1-1
+Added Net: Name=RESET
+Added Member To Class: ClassName=TinyArduino Member=Component CR2 B0540WS-7
+Added Member To Class: ClassName=TinyArduino Member=Component P1 Header 4
+Added Member To Class: ClassName=TinyArduino Member=Component R1 1.5K
+Added Member To Class: ClassName=TinyArduino Member=Component R3 68R
+Added Member To Class: ClassName=TinyArduino Member=Component R4 390R
+Added Member To Class: ClassName=TinyArduino Member=Component R5 0R
